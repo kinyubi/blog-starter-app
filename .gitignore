@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/.idea/
+/_gsdata_/
 /.pnp
 .pnp.js
 .yarn/install-state.gz
